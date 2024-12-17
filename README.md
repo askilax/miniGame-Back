@@ -1,6 +1,6 @@
 # MiniGameApp - Backend
 
-Bienvenue sur le projet **MiniGameApp - Backend** ! Ce dépôt contient le code backend de l'application **MiniGameApp**, qui gère les fonctionnalités principales côté serveur, y compris l'authentification, la gestion des utilisateurs, et le suivi des scores. Le backend est développé en **Node.js** avec **Express**.
+Bienvenue sur le projet **MiniGameApp - Backend** ! Ce dépôt contient le code backend de l'application **MiniGame**, qui gère les fonctionnalités principales côté serveur, y compris l'authentification, la gestion des utilisateurs, et le suivi des scores. Le backend est développé en **Node.js** avec **Express**.
 
 ## Table des Matières
 
@@ -14,7 +14,7 @@ Bienvenue sur le projet **MiniGameApp - Backend** ! Ce dépôt contient le code 
 
 ## Aperçu
 
-Le backend de **MiniGameApp** est responsable de fournir les API pour l'authentification des utilisateurs, la gestion des mini-jeux, le stockage des scores, et l'ensemble des services nécessaires pour assurer une expérience utilisateur cohérente et sécurisée.
+Le backend de **MiniGame** est responsable de fournir les API pour l'authentification des utilisateurs, la gestion des mini-jeux, le stockage des scores, et l'ensemble des services nécessaires pour assurer une expérience utilisateur cohérente et sécurisée.
 
 ## Fonctionnalités
 

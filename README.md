@@ -15,6 +15,7 @@ Bienvenue sur le projet **MiniGameApp - Backend** ! Ce dépôt contient le code 
 ## Aperçu
 
 Le backend de **MiniGame** est responsable de fournir les API pour l'authentification des utilisateurs, la gestion des mini-jeux, le stockage des scores, et l'ensemble des services nécessaires pour assurer une expérience utilisateur cohérente et sécurisée.
+[Lien vers la vidéo YouTube](https://youtube.com/shorts/iBKZX-3hiOs?feature=share)
 
 ## Fonctionnalités
 
